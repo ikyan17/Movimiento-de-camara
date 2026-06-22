@@ -3,6 +3,7 @@ using UnityEngine.InputSystem;
 
 
 public class MoveMouse : MonoBehaviour
+
 {
     [SerializeField] private float sensibilidadMouse;
     private Vector2 mira;
